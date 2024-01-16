@@ -1,4 +1,4 @@
 Componentes del grupo:
-	-Asier Sanchez
-	-Alejandro Bonilla
-	-Alejandro Cadalso
+	-Asier Sanchez: Formulario e imagenes
+	-Alejandro Bonilla: HTML y CSS
+	-Alejandro Cadalso: Repositorio, README.md y Componentes del grupo.
