@@ -1,0 +1,88 @@
+           body {
+                background-image: url("Imagenes/aligwall.jpg");
+                background-attachment: fixed;
+                background-position: center;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+
+            #h1 {
+                color: white;
+                position: absolute;
+                opacity: 0.85;
+                left: 40%;
+                top: -3%;
+                width: 20%;
+                height: 10%;
+            }
+			
+			
+            #frase {
+                color: white;
+                position: absolute;
+                opacity: 0.85;
+                left: 30%;
+                top: 15%;
+                height: 10%;
+            }
+
+            #video1 {
+                position: absolute;
+                top: 200px;
+                left: 5%;
+            }
+
+            #frase1 {
+                position: absolute;
+                top: 180px;
+                left: 60%;
+                width: 37%;
+                font-size: 130%;
+            }
+
+            #cuco2 {
+                position: absolute;
+                top: 330px;
+                left: 60%;
+                width: 38%;
+                font-size: 130%;
+            }
+
+            #respek {
+                color: white;
+                position: absolute;
+                opacity: 0.85;
+                left: 40%;
+                bottom: -15%;
+                width: 20%;
+                height: 10%;
+            }
+
+            #video2 {
+                position: absolute;
+                top: 800px;
+                left: 53%;
+            }
+
+            #respek1 {
+                position: absolute;
+                top: 130%;
+                left: 8%;
+                width: 37%;
+                font-size: 130%;
+            }
+
+            #crialo2 {
+                position: absolute;
+                top: 1090px;
+                left: 8%;
+                width: 37%;
+                font-size: 130%;
+            }
+			#form1 {
+				position: absolute;
+				top: 65%;
+				left: 80%;
+				background-color: black;
+				color: white;
+				opacity: 0.85;
+			}
